@@ -1,0 +1,16 @@
+# Ignorar datos crudos e información real
+data/raw/
+data/processed/dataset_alulosa_procesado.csv
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Ignorar entornos virtuales (si usas uno)
+.venv/
+venv/
+env/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
