@@ -5,6 +5,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+📊 Ver Dashboard Interactivo aquí: (https://app.powerbi.com/view?r=eyJrIjoiNDkwYTcyMzYtY2VlYi00NGYzLTkyMDUtNWZmMDNjNGZjNWQ2IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9)
+
 ## 📌 Resumen del Proyecto
 ComexIntel es una solución analítica *end-to-end* diseñada para procesar, limpiar y visualizar datos aduanales de importaciones del mercado alimenticio (en este primer análisis únicamente de Alulosa) en México (Enero - Abril 2026). 
 
