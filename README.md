@@ -34,7 +34,7 @@ El ciclo de vida del dato consta de tres fases:
 
 El dashboard incluye navegación por marcadores (bookmarks), filtros dinámicos colapsables y formato condicional basado en rangos de rentabilidad de precios.
 
-**<img width="749" height="840" alt="image" src="https://github.com/user-attachments/assets/b789c981-66c8-43b4-8314-36dbb8bafe03" />**
+**<img width="798" height="888" alt="image" src="https://github.com/user-attachments/assets/6f168bb4-78e6-44cb-b02f-b6dde9373a43" />**
 
 ### 💡 Insights Destacados:
 * **Volatilidad y Anomalía de Mercado (Marzo - Abril)**: Se identificó una fuerte fluctuación en el primer cuatrimestre. Mientras que marzo registró el pico de precio más alto ($2.80 USD/kg) con el volumen más bajo del periodo, abril rompió drásticamente la tendencia con un salto masivo en volumen (superando los 500,000 kg) y una corrección de precio a la baja ($2.34 USD/kg). Esto sugiere compras de pánico preventivas en meses previos o una entrada agresiva de inventario a bajo costo en abril.
