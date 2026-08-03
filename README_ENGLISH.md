@@ -1,11 +1,3 @@
-Here is the completely translated and polished English `README.md` for your repository.
-
-I have included a specific technical note in the **Architecture & Data Flow** section to clarify that the ETL script depends on a specific raw data format (as we discussed previously). This ensures full transparency for any technical recruiter or engineer reviewing your code.
-
----
-
-# COMEXINTEL-Project
-
 # 🚢 ComexIntel: Strategic & Automated Import Market Analysis
 
 📊 View Interactive Dashboard here: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDkwYTcyMzYtY2VlYi00NGYzLTkyMDUtNWZmMDNjNGZjNWQ2IiwidCI6IjM5OTYyZjgwLTkyMTItNGIxZi04Yjk1LWU3OTYyYzRhY2IzMCIsImMiOjR9)
