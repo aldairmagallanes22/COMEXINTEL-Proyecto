@@ -19,7 +19,7 @@ RAW_DIR = PROJECT_ROOT / "data" / "raw"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 
 # ------------------------------------------------------------------
-# 2. Funciones de Transformación (Extraídas de tu Notebook)
+# 2. Funciones de Transformación
 # ------------------------------------------------------------------
 def fechas(fila):
     # Columnas año, mes y día se importan a la función para hacer el datetime
@@ -68,7 +68,7 @@ def ejecutar_pipeline():
     
     print("\nAplicando transformaciones de negocio...")
     
-    # Aplicando tu lógica exacta del notebook
+   
     df_maestro["FECHA"] = df_maestro.apply(fechas, axis=1)
     
     df_maestro["PESO_KG"] = df_maestro["CANTIDAD ESTADISTICA"]
