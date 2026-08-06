@@ -34,6 +34,9 @@ The data lifecycle consists of three phases:
 ## 📊 Dashboard & Key Findings
 
 The dashboard features bookmark navigation, collapsible dynamic filters, and conditional formatting based on price profitability ranges.
+<img width="839" height="924" alt="Screenshot 2026-08-03 120637" src="https://github.com/user-attachments/assets/6faa26fd-4464-42e5-8400-1ddeaab1de49" />
+
+
 
 ### 💡 Key Insights:
 
